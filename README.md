@@ -1,4 +1,4 @@
-# _{Vacation picker Webpage http://kylewolfson.github.io/vacationChooser/  }_
+# _{Vacation picker Webpage http://kylewolfson.github.io/vacationChooser }_
 
 #### _{User answers questions and gets a suggested vacation destination}, {March 25, 2016}_
 
