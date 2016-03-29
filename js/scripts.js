@@ -10,7 +10,7 @@ $(document).ready(function() {
     var result
 
     if (travel && geography && density && price && temperature){
-      $(".picsize").fadeOut(500);
+      $(".picsize").fadeOut(495); //shortened the fadeout time because it was conflicting with the fadein later, 1ms difference didn't fix but 5 seems fine.
       $("#inputError").hide();
       $(".has-error").removeClass("has-error"); //successful inputs, clears fields and headline
       // begin excessive nested if statements
